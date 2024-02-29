@@ -19,15 +19,14 @@ exercises: 2
 
 ## Introduction
 
-:::::::::::::::::: callout  
+:::::::::::::::::: callout   
 Takeaway message
 
 Contributors should only be expected to know basic markdown and very minimal yaml syntax in order to work on lessons.
 
 :::::::::::::::::::::::::::
 
-:::::::::::::::::: callout  
-
+:::::::::::::::::: callout
 Takeaway message2
 
 Contributors should only be expected to know basic markdown and very minimal yaml syntax in order to work on lessons.
