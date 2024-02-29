@@ -26,6 +26,14 @@ Contributors should only be expected to know basic markdown and very minimal yam
 
 :::::::::::::::::::::::::::
 
+:::::::::::::::::: callout
+
+Takeaway message2
+
+Contributors should only be expected to know basic markdown and very minimal yaml syntax in order to work on lessons.
+
+:::::::::::::::::::::::::::
+
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
 [R Markdown][r-markdown] for dynamic files that can render code into output. 
