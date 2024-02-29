@@ -19,12 +19,16 @@ exercises: 2
 
 ## Introduction
 
-:::::::::::::::::: callout   
-Takeaway message
+::::::::::::::::::::::::::::::::::::: callout
 
-Contributors should only be expected to know basic markdown and very minimal yaml syntax in order to work on lessons.
+Callout sections can highlight information.
 
-:::::::::::::::::::::::::::
+They are sometimes used to emphasise particularly important points
+but are also used in some lessons to present "asides": 
+content that is not central to the narrative of the lesson,
+e.g. by providing the answer to a commonly-asked question.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::: callout
 Takeaway message2
